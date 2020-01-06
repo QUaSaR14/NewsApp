@@ -1,9 +1,10 @@
-### NewsApp
+# NewsApp
 
-##It is React Native app build using Expo SDK.  
-#NewsAPI is used to get the latest and trending news across the world. 
+### It is React Native app build using Expo SDK.  
+### NewsAPI is used to get the latest and trending news across the world. 
 
-#To run this app on local machine :
+## Installation Guide
+### To run this app on local machine :
 
 0. Node must be installed.
 1. Install expo cli on your local machine. 
